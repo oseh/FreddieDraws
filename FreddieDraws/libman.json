@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap-rtl@3.4.0",
+      "destination": "Script/bootstrap-rtl/"
+    },
+    {
+      "library": "jquery@3.4.1",
+      "destination": "Script/jquery/"
+    },
+    {
+      "library": "font-awesome@5.10.2",
+      "destination": "Fonts/font-awesome/"
+    }
+  ]
+}

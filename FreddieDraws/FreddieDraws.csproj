@@ -88,7 +88,50 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Fonts\font-awesome\css\all.css" />
+    <Content Include="Fonts\font-awesome\css\all.min.css" />
+    <Content Include="Fonts\font-awesome\css\brands.css" />
+    <Content Include="Fonts\font-awesome\css\brands.min.css" />
+    <Content Include="Fonts\font-awesome\css\fontawesome.css" />
+    <Content Include="Fonts\font-awesome\css\fontawesome.min.css" />
+    <Content Include="Fonts\font-awesome\css\regular.css" />
+    <Content Include="Fonts\font-awesome\css\regular.min.css" />
+    <Content Include="Fonts\font-awesome\css\solid.css" />
+    <Content Include="Fonts\font-awesome\css\solid.min.css" />
+    <Content Include="Fonts\font-awesome\css\svg-with-js.css" />
+    <Content Include="Fonts\font-awesome\css\svg-with-js.min.css" />
+    <Content Include="Fonts\font-awesome\css\v4-shims.css" />
+    <Content Include="Fonts\font-awesome\css\v4-shims.min.css" />
+    <Content Include="Fonts\font-awesome\js\all.js" />
+    <Content Include="Fonts\font-awesome\js\all.min.js" />
+    <Content Include="Fonts\font-awesome\js\brands.js" />
+    <Content Include="Fonts\font-awesome\js\brands.min.js" />
+    <Content Include="Fonts\font-awesome\js\conflict-detection.js" />
+    <Content Include="Fonts\font-awesome\js\conflict-detection.min.js" />
+    <Content Include="Fonts\font-awesome\js\fontawesome.js" />
+    <Content Include="Fonts\font-awesome\js\fontawesome.min.js" />
+    <Content Include="Fonts\font-awesome\js\regular.js" />
+    <Content Include="Fonts\font-awesome\js\regular.min.js" />
+    <Content Include="Fonts\font-awesome\js\solid.js" />
+    <Content Include="Fonts\font-awesome\js\solid.min.js" />
+    <Content Include="Fonts\font-awesome\js\v4-shims.js" />
+    <Content Include="Fonts\font-awesome\js\v4-shims.min.js" />
+    <Content Include="Fonts\font-awesome\sprites\brands.svg" />
+    <Content Include="Fonts\font-awesome\sprites\regular.svg" />
+    <Content Include="Fonts\font-awesome\sprites\solid.svg" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-brands-400.svg" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-regular-400.svg" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-solid-900.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Script\bootstrap-rtl\css\bootstrap-flipped.css" />
+    <Content Include="Script\bootstrap-rtl\css\bootstrap-flipped.min.css" />
+    <Content Include="Script\bootstrap-rtl\css\bootstrap-rtl.css" />
+    <Content Include="Script\bootstrap-rtl\css\bootstrap-rtl.min.css" />
+    <Content Include="Script\jquery\core.js" />
+    <Content Include="Script\jquery\jquery.js" />
+    <Content Include="Script\jquery\jquery.min.js" />
+    <Content Include="Script\jquery\jquery.slim.js" />
+    <Content Include="Script\jquery\jquery.slim.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -100,7 +143,25 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
+    <Content Include="libman.json" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-brands-400.eot" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-brands-400.ttf" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-brands-400.woff" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-brands-400.woff2" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-regular-400.eot" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-regular-400.ttf" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-regular-400.woff" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-regular-400.woff2" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-solid-900.eot" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-solid-900.ttf" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-solid-900.woff" />
+    <Content Include="Fonts\font-awesome\webfonts\fa-solid-900.woff2" />
     <None Include="packages.config" />
+    <Content Include="Script\bootstrap-rtl\css\bootstrap-flipped.css.map" />
+    <Content Include="Script\bootstrap-rtl\css\bootstrap-rtl.css.map" />
+    <Content Include="Script\jquery\jquery.min.map" />
+    <Content Include="Script\jquery\jquery.slim.min.map" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
